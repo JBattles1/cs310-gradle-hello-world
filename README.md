@@ -1,3 +1,5 @@
+# This project is used to help understand gradle and how it is used. 
+
 # Hello World
 This repository will allow you to build your first Java project of the semester, including unit and acceptance tests, using Gradle as the build tool.
 
