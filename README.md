@@ -1,6 +1,14 @@
 # Jacksonville State University
 File: cs-gradle-hello-world
 
+# Project Details
+This project was assigned in my CS 310 Software Engineering class. This is a basic project intended to introduce beginner topics involing gradle and github repositories. A simple message saying "Hello World" shows up in the terminal after the program is exectuted. The major purpose is to see how gradle and github work, as well as the unit and acceptance tests, such as JaCoCo.
+
+# Skills Developed
+    *Gradle
+    *Github Repositories
+    *Running diagnostic tests
+
 # Hello World
 This repository will allow you to build your first Java project of the semester, including unit and acceptance tests, using Gradle as the build tool.
 
